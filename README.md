@@ -1,21 +1,26 @@
 <div align="center">
 
-# piyaphan sukpong
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Piyaphan+%F0%9F%91%8B;DevOps+Engineer+%7C+AWS+%7C+Terraform;CI%2FCD+%7C+Docker+%7C+Linux;Open+to+Relocation+%2F+Remote+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
-**DevOps Engineer** · AWS · Terraform · CI/CD · Docker
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyaphan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://piyaphan098.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:piyaphan1584@gmail.com)
-[![Gist](https://img.shields.io/badge/Gist-181717?style=flat&logo=github&logoColor=white)](https://gist.github.com/piyaphan098)
-
-📍 Chonburi, Thailand &nbsp;·&nbsp; 🌏 Open to Relocation / Remote
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyaphan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://piyaphan098.github.io)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyaphan1584@gmail.com)
 
 </div>
 
 ---
 
-DevOps Engineer with 3 years of production experience building automated pipelines and cloud infrastructure. Focused on reliability, automation, and turning manual deployments into fully hands-off systems.
+<img align="right" alt="DevOps GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👨‍💻 About Me
+
+- 🔧 DevOps Engineer with **3 years** of production experience
+- ☁️ Specializing in **AWS, Terraform, Docker & GitHub Actions**
+- 🚀 Passionate about turning manual deployments into **fully automated pipelines**
+- 🌏 Based in **Chonburi, Thailand** · Open to Relocation / Remote
+- 📬 Reach me at **piyaphan1584@gmail.com**
+
+<br clear="right"/>
 
 ---
 
@@ -23,51 +28,56 @@ DevOps Engineer with 3 years of production experience building automated pipelin
 
 **DevOps / Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **Monitoring**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Backend / Database**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ## 🚀 Key Projects
 
 ### 🖥 NetPulse — Network Monitoring System
-> Production deployment in progress
+> 🔨 Production deployment in progress
 
-- Monitors **24+ active devices** processing **6,500+ daily requests**
-- Per-device domain filtering with **23% block rate**
-- Automated CSV/ZIP reporting + bandwidth threshold alerts
-- Secured with UFW firewall on VMware infrastructure
+| Metric | Value |
+|--------|-------|
+| 📡 Active Devices | 24+ |
+| 📊 Daily Requests | 6,500+ |
+| 🚫 Block Rate | 23% |
+
+- Per-device domain filtering with automated CSV/ZIP reporting
+- Bandwidth threshold alerts + UFW firewall secured on VMware
 
 ---
 
-### ⛳ Golf Cart Tracking System · [Live Demo](https://golf-cart-devops.pages.dev)
+### ⛳ Golf Cart Tracking System &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=googlechrome&logoColor=white)](https://golf-cart-devops.pages.dev)
 
-- Eliminated 100% of paper-based manual logging with QR-based digital tracking
-- Serverless backend via **Cloudflare Workers** — zero client-side API exposure
-- Full **IaC with Terraform** + **GitHub Actions** CI/CD with auto-deploy on push
-- Uptime monitoring via UptimeRobot
+- ✅ Eliminated **100%** of paper-based manual logging via QR-based digital system
+- ☁️ Serverless backend via **Cloudflare Workers** — zero client-side API exposure  
+- ⚙️ Full **IaC with Terraform** + **GitHub Actions** CI/CD auto-deploy on push
+- 📈 Uptime monitoring via UptimeRobot
 
 ---
 
@@ -75,6 +85,29 @@ DevOps Engineer with 3 years of production experience building automated pipelin
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=piyaphan098&theme=dark&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=piyaphan098&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piyaphan098&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=piyaphan098&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/piyaphan098/piyaphan098/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=piyaphan098&color=00D9FF&style=flat-square)
+
+*"Automate everything, monitor everything."*
 
 </div>

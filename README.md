@@ -14,14 +14,23 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 DevOps Engineer with **3 years** of production experience
-- ☁️ Specializing in **AWS, Terraform, Docker & GitHub Actions**
-- 🚀 Passionate about turning manual deployments into **fully automated pipelines**
-- 🌏 Based in **Chonburi, Thailand** · Open to Relocation / Remote
-- 📬 Reach me at **piyaphan1584@gmail.com**
+- 🏗 Infrastructure & DevOps Engineer focused on automation and internal systems
+- ☁️ Building cloud-based tools using **AWS, Docker, Terraform & GitHub Actions**
+- ⚙️ Passionate about simplifying manual operations through automation workflows
+- 🖥 Experienced with **Linux servers, CI/CD pipelines, monitoring**, and full-stack development
+- 📍 Based in **Chonburi, Thailand** · Open to Hybrid / Remote opportunities
 
 <br clear="right"/>
 
+---
+
+### 🔨 Currently Building
+
+- 🏌️ **Golf Cart Tracking System** with Cloudflare Workers *(Live)*
+- 📱 **Internal IT Helpdesk Mobile App** using Flutter
+- 📡 **Network monitoring & internet usage analytics tools** (NetPulse)
+
+---
 ---
 
 ## 🛠 Tech Stack

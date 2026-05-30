@@ -75,8 +75,6 @@ DevOps Engineer with 3 years of production experience building automated pipelin
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piyaphan098&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=piyaphan098&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=piyaphan098&theme=dark&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>

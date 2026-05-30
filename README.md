@@ -87,8 +87,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=piyaphan098&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piyaphan098&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=piyaphan098&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyaphan098&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyaphan098&theme=tokyonight)
 
 </div>
 

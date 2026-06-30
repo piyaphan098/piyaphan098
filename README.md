@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Piyaphan+%F0%9F%91%8B;DevOps+Engineer+%7C+AWS+%7C+Terraform;CI%2FCD+%7C+Docker+%7C+Linux;Open+to+Relocation+%2F+Remote+%F0%9F%8C%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Piyaphan+%F0%9F%91%8B;Business+Analyst+(IT)+%7C+Project+Coordination;Requirements+%7C+Stakeholder+Management+%7C+SDLC;Open+to+Bangkok+Hybrid+%2F+Remote+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyaphan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://piyaphan098.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-piyaphan098.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://piyaphan098.github.io)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyaphan1584@gmail.com)
 
 </div>
@@ -14,11 +14,11 @@
 
 ### 👨‍💻 About Me
 
-- 🏗 Infrastructure & DevOps Engineer focused on automation and internal systems
-- ☁️ Building cloud-based tools using **AWS, Docker, Terraform & GitHub Actions**
-- ⚙️ Passionate about simplifying manual operations through automation workflows
-- 🖥 Experienced with **Linux servers, CI/CD pipelines, monitoring**, and full-stack development
-- 📍 Based in **Chonburi, Thailand** · Open to Hybrid / Remote opportunities
+- 🧩 IT professional with **3+ years** gathering and analyzing requirements across **5 stakeholder groups**
+- 🔄 Owning the full cycle from problem analysis and solution design through to production deployment
+- 📋 Strong background in **requirements gathering, stakeholder management, SDLC, and UX prototyping** (Stitch)
+- ⚙️ Backed by hands-on technical skills — **SQL, REST APIs, Terraform, Docker, AWS, GitHub Actions** — to work closely with engineering teams
+- 📍 Based in **Chonburi, Thailand** · Open to Bangkok-based **Hybrid / Remote** roles
 
 <br clear="right"/>
 
@@ -27,8 +27,9 @@
 ### 🔨 Currently Building
 
 - 🏌️ **Golf Cart Tracking System** with Cloudflare Workers *(Live)*
-- 📱 **Internal IT Helpdesk Mobile App** using Flutter
-- 📡 **Network monitoring & internet usage analytics tools** (NetPulse)
+- 📡 **NetPulse** — network monitoring & internet usage analytics *(Rolling out to production)*
+- 🎨 **UI/UX Mockups (Stitch)** — self-practice mocking up app flows to align on UX before handoff to devs
+- 📱 **IT Support Helpdesk App** — personal side project using Flutter + Supabase
 
 ---
 ---
@@ -63,6 +64,11 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+**Requirements / UX**
+
+![Stitch](https://img.shields.io/badge/Stitch-AI%20Design-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Figma](https://img.shields.io/badge/Wireframing-UX%20Flow-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ## 🚀 Key Projects
@@ -83,10 +89,26 @@
 
 ### ⛳ Golf Cart Tracking System &nbsp; [![Live](https://img.shields.io/badge/Live-00C853?style=flat&logo=googlechrome&logoColor=white)](https://golf-cart-devops.pages.dev)
 
+- 🤝 Coordinated requirements across **5 stakeholder groups** (Golf Manager, Operations Manager, Starter Lead, Rental Cart Lead, New Member team)
 - ✅ Eliminated **100%** of paper-based manual logging via QR-based digital system
 - ☁️ Serverless backend via **Cloudflare Workers** — zero client-side API exposure  
 - ⚙️ Full **IaC with Terraform** + **GitHub Actions** CI/CD auto-deploy on push
 - 📈 Uptime monitoring via UptimeRobot
+
+---
+
+### 🎨 UI/UX Mockups (Stitch) <sub>*practice*</sub>
+
+- Self-practice using **Stitch** (AI design tool) to mock up app flows — including an IT helpdesk app and a mobile marketplace concept
+- Used to align with developers on UX before handing off requirements, catching flow issues early in the SDLC
+
+---
+
+### 📱 IT Support Helpdesk App <sub>*side project*</sub>
+
+- Built in personal time to practice mobile development
+- Ticketing app connecting employees and technicians with real-time chat, GPS tagging, and Supabase-backed role access
+- Stack: **Flutter, Supabase, Riverpod**
 
 ---
 
@@ -118,6 +140,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=piyaphan098&color=00D9FF&style=flat-square)
 
-*"Automate everything, monitor everything."*
+*"Requirements first, automation always."*
 
 </div>
